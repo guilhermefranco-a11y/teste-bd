@@ -1,0 +1,6 @@
+{
+  "name": "Estoque Crítico Pro",
+  "description": "Sistema de gerenciamento de estoque manual com análise de média mínima e relatórios críticos integrados ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
